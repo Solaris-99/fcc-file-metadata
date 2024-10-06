@@ -1,3 +1,3 @@
 # File Metadata Microservice
 
-This is the boilerplate for the File Metadata Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/file-metadata-microservice
+This is a solution for the File Metadata Microservice for the fcc backend project. This microservice allows you to upload a file, and returns a json with name, mimetype, and size fields.
